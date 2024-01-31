@@ -1,6 +1,9 @@
-# COMP8604 Motion Planning
+# Motion Planner Framework
 
 ***
+## Prerequisites
+
+You should have MoveIt2 source code available and set up the compilation environment before run below commands.
 
 ## Compile the source code
 
